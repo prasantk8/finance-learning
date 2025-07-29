@@ -529,25 +529,25 @@ This section compiles a comprehensive list of mixed multiple-choice questions co
     C) Companies making exaggerated or misleading claims about their ESG credentials.
     D) Investments that solely focus on renewable energy projects.
 
-37. Which of the following is an example of a **Governance (G)** factor an ESG investor would assess? [cite: 1632]
+37. Which of the following is an example of a **Governance (G)** factor an ESG investor would assess? 
     A) A company's water usage in its production processes.
     B) The diversity and inclusion policies for employees.
     C) The transparency of executive remuneration and audit procedures.
     D) The impact of the company's operations on local communities.
 
-38. Misha (from the case study in your workbook) wants to ensure her investments contribute positively to society and the environment. She is particularly concerned about issues like fair labor practices and data privacy. These concerns primarily relate to which aspect of ESG? [cite: 1670]
+38. Misha (from the case study in your workbook) wants to ensure her investments contribute positively to society and the environment. She is particularly concerned about issues like fair labor practices and data privacy. These concerns primarily relate to which aspect of ESG? 
     A) Environmental
     B) Social
     C) Governance
     D) Financial
 
-39. Which participant in the financial services sector primarily collects premiums from policyholders to provide financial protection against various risks, such as life events or property damage? [cite: 1405, 1445]
+39. Which participant in the financial services sector primarily collects premiums from policyholders to provide financial protection against various risks, such as life events or property damage? 
     A) Pension Fund
     B) Investment Bank
     C) Insurance Company
     D) Retail Bank
 
-40. A financial institution that focuses on managing pooled assets for a large number of investors or institutions, making investment decisions on their behalf to achieve specific objectives, is best described as a: [cite: 1410, 1434]
+40. A financial institution that focuses on managing pooled assets for a large number of investors or institutions, making investment decisions on their behalf to achieve specific objectives, is best described as a: 
     A) Stockbroker
     B) Custodian Bank
     C) Fund Manager
